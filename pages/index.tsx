@@ -36,6 +36,7 @@ const Home: NextPage = () => {
             Peinado & Graeml (2007) falam que a cronoanálise, também conhecido como estudo de tempos, é de vital importância para se determinar o tempo de operações de uma empresa, desta forma tem a capacidade de determinar a sua capacidade produtiva e concede parâmetros para a elaboração de planos estratégicos de produção. Para a determinação do tempo padrão de produção, deve-se levar em consideração a velocidade de trabalho do operador, juntamente com o fator de tolerância para atender as necessidades pessoais e para que o mesmo possa se recuperar dos efeitos da fadiga (PEINADO & GRAEML 2007).
           </p>
         </div>
+        <script async src="https://pagead2.googlesyndication.com/pagead/js/adsbygoogle.js?client=ca-pub-1787281316209120" crossOrigin="anonymous"></script>
       </main>
         
 

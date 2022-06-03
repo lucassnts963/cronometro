@@ -10,7 +10,14 @@
 .title {
   margin: 0;
   line-height: 1.15;
-  font-size: larger;
+  font-size: 72pt;
   font-weight: 700;
   text-align: center;
+}
+
+
+@media (max-width: 600px) {
+  .title{
+    font-size: larger;
+  }
 }

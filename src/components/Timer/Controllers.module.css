@@ -1,0 +1,16 @@
+.containerControllers{
+  display: flex;
+  justify-content: space-around;
+  margin-top: 2rem;
+}
+
+.button {
+  background-color: transparent;
+  border: 1px solid #fff;
+  color: #fff;
+  width: 8rem;
+  height: 2rem;
+  cursor: pointer;
+  font-weight: 700;
+  font-size: medium;
+}
